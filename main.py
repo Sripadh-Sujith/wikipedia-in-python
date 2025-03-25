@@ -6,7 +6,7 @@ window=Tk()
 
 window.geometry("800x400")
 window.title("Python Wikipedia")
-icon_path=os.path.abspath('wikipedia\wikipedia_icon_TWH_icon.ico')
+icon_path=os.path.abspath('wikipedia-in-python\wikipedia_icon_TWH_icon.ico')
 
 window.iconbitmap(icon_path)
 window.config(bg='white')
