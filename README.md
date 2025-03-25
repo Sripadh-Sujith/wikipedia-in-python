@@ -6,4 +6,4 @@ Follow for more!!
 
 Contact me :
 
-sripadhsujit2009h@gmail.com
+sripadhsujith2009@gmail.com
